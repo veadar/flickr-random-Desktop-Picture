@@ -8,9 +8,8 @@ Download picture at random from flickr and set as Desktop Picture.
 
 [flickr API Key](http://www.flickr.com/services/apps/create/ "flickr")
 
-
 ##Download
-Click Here → [Download](https://github.com/downloads/veadar/addShadow/addShadow.app.zip "Downloads · veadar/addShadow")
+Click Here → [Download](https://github.com/veadar/flickr-random-Desktop-Picture/raw/master/flickr%20random%20Desktop%20Picture.app.zip "direct link")
 
 ##Usage
 
