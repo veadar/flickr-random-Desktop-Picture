@@ -17,6 +17,8 @@ Set flickr API Key and flickr search tag.
 
 If need re-setup, press shift at Starting.
 
+Don't be Redistribution.(Because this app contains flickr API Key)
+
 ##Special Thanks & Used Codes
 
 - <a href="http://d.hatena.ne.jp/goinger/20070720/1184867418">flickr apiをrubyで使う - goinger的日記</a>
