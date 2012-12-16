@@ -4,6 +4,8 @@
 
 Download picture at random from flickr and set as Desktop Picture.
 
+![スクリーンショット](http://blog-imgs-43-origin.fc2.com/v/e/a/veadardiary/flickr_Desktop_Picture.jpg)
+
 ##Require
 
 [flickr API Key](http://www.flickr.com/services/apps/create/ "flickr")
